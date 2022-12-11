@@ -1,0 +1,11 @@
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\bin\Debug\FreeSpace.exe.config
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\bin\Debug\FreeSpace.exe
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\bin\Debug\FreeSpace.pdb
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.Form1.resources
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.Properties.Resources.resources
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.csproj.GenerateResource.cache
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.exe
+C:\Users\andre\Source\Repos\FreeSpace\FreeSpace\obj\Debug\FreeSpace.pdb
